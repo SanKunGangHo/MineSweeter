@@ -1,0 +1,45 @@
+# Unity 생성 폴더
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# 외부 애셋 (라이선스 문제)
+Assets/unity-chan!/
+Assets/Optimize SDKohaku-Chanz/
+Assets/Free Pack/
+Assets/Joystick Pack/
+Assets/True Explosions/
+
+# meta 파일은 제외된 폴더 것도 제외
+Assets/unity-chan!.meta
+Assets/Optimize SDKohaku-Chanz.meta
+Assets/Free Pack.meta
+Assets/Joystick Pack.meta
+Assets/True Explosions.meta
+
+# APK 빌드 파일
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.gz
+
+# Visual Studio / Rider
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj
+*.sln
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+*.swp
